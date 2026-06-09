@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Takeya Sultana 👋
 
-<!--
-**takeya2k26/takeya2k26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student  
+💻 Aspiring Software Engineer  
+🚀 Passionate about Software Development and Problem Solving
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Java, Data Structures & Algorithms
+- 💡 Interested in Software Engineering, AI, and System Design
+- 🛠️ Building academic and personal projects
+- 📚 Always exploring new technologies and best practices
+- 🎯 Goal: Become a skilled Software Engineer
+
+## Technologies & Tools
+
+- Languages: Java, C, C++, Python
+- Web: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code, IntelliJ IDEA
+
+## Current Projects
+
+- 🐦 Flappy Bird Clone
+- 🐍 Snake Game
+- 👻 Pacman Clone
+- 🤖 Tic-Tac-Toe AI
+- 🚀 Space Shooter
