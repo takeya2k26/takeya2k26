@@ -1,4 +1,4 @@
-# Hi, I'm Takeya Sultana 👋
+# Hi, I'm Takeya 👋
 
 🎓 Computer Science & Engineering Student  
 💻 Aspiring Software Engineer  
