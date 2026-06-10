@@ -18,6 +18,6 @@
 - Web: HTML, CSS, JavaScript
 - Tools: Git, GitHub, VS Code, IntelliJ IDEA
 
-## Current Projects
+## Current Project
 
 - 👻 Pacman Clone
