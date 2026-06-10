@@ -20,8 +20,4 @@
 
 ## Current Projects
 
-- 🐦 Flappy Bird Clone
-- 🐍 Snake Game
 - 👻 Pacman Clone
-- 🤖 Tic-Tac-Toe AI
-- 🚀 Space Shooter
